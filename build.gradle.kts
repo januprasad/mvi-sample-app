@@ -7,7 +7,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 plugins {
-  id("org.jetbrains.kotlinx.kover") version "0.7.6" apply false
+  id("org.jetbrains.kotlinx.kover") version "0.8.2" apply false
   id("com.diffplug.spotless") version "6.25.0" apply false
 }
 
